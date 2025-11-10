@@ -1,8 +1,8 @@
 <?php
 // send.php
 // Настройте эти две переменные перед использованием:
-$botToken = 'ВАШ_BOT_TOKEN_HERE';   // пример: 123456789:ABCdefGHI...
-$chatId   = 'ВАШ_CHAT_ID_HERE';     // пример: -1001234567890 или 123456789
+$botToken = '7598958067:AAG5yenJcMwODqbeN6H7UsldO23GJkOBuOU';   // пример: 123456789:ABCdefGHI...
+$chatId   = '-1003206731678';     // пример: -1001234567890 или 123456789
 
 header('Content-Type: application/json; charset=utf-8');
 
